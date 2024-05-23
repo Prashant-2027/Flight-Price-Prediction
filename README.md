@@ -1,2 +1,3 @@
 # Flight-Price-Prediction
 Welcome to the Flight Price Prediction repository! This project leverages machine learning algorithms to forecast airfare trends, helping users make informed travel decisions. By analyzing historical pricing data, this model predicts future flight prices, offering valuable insights for budget-conscious travelers. With user-friendly interfaces and comprehensive documentation, this tool simplifies the process of predicting and planning for air travel costs. Explore the possibilities and enhance your travel experience with our Flight Price Prediction project. Safe travels!
+You can check it : https://drive.google.com/file/d/1l02tAWYg-d7sWFAsj_RgKq--n5i5AWrS/view?usp=drive_link
